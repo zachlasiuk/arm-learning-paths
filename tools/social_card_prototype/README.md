@@ -1,6 +1,6 @@
 # Social Card Prototype
 
-Prototype generator for learn.arm.com social/Open Graph cards. It reads a Learning Path or install guide Markdown file, pulls the `title` from front matter, applies the content type label, and writes `output.webp`.
+Prototype generator for learn.arm.com social/Open Graph cards with updated branding and name of the content directly in the image. It reads a Learning Path or install guide Markdown file, pulls the `title` from front matter, applies the content type label, and writes `output.webp`.
 
 You'll need these python files installed:
 ```bash
